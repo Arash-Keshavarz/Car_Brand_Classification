@@ -4,9 +4,11 @@ This project focuses on detecting and classifying car models using the [Stanford
 
 ## Project Structure
 
+```bash
 car-model-detection/
-├── car-model-detection.ipynb # Main notebook with the complete pipeline
-└── README.md 
+├── car-model-detection.ipynb   # Main notebook with the complete pipeline
+└── README.md
+```
 
 
 ## Features
